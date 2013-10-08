@@ -1,0 +1,20 @@
+Al producirse el conflicto se provoca la siguiente salida:
+
+Auto-merging matrix.rb
+CONFLICT (content): Merge conflict in matrix.rb
+Automatic merge failed; fix conflicts and then commit the result.
+
+En la rama multiplicación, fichero matrix.rb, teniamos las siguientes líneas:
+
+#################################################
+############# MATRICES DEFINIDAS ################
+#################################################
+
+Y en la rama suma, en el fichero matrix.rb, teniamos las siguientes líneas:
+
+#################################################
+############# DEFINICION DE MATRICES ############
+#################################################
+
+Para solucionar el conflicto generado, pusimos en ambos ficheros "DEFINICION DE MATRICES"
+
